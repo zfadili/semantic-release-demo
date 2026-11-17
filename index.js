@@ -1,6 +1,6 @@
 
 function greet(name = "World") {
-  return `Hello, ${name}!`;
+  return `Hello, ${name}.`;
 }
 
 if (require.main === module) {
